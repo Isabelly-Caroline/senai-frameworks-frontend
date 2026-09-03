@@ -1,5 +1,3 @@
-anotações e materiais de apoio da disciplina de **Frameworks Front-end**.
-oportunidades profissionais.
 # 📚 Frontend Notes
 
 > Repositório dedicado aos meus estudos de **Front-end**, reunindo resumos das aulas, anotações e materiais de apoio da disciplina de **Frameworks Front-end**.
@@ -38,15 +36,14 @@ Repositórios dos projetos práticos desenvolvidos ao longo da matéria.
 
 | # | Aula | Projeto | Repositório | Deploy | Tecnologia |
 |---|------|---------|--------------|--------|------------|
-| 01 | Aula 01 | vannila.js | [🔗 Repositório](https://github.com/Isabelly-Caroline/Projeto-Vanilla-js) | [🌐 Ver online](
-projeto-vanilla-js-two.vercel.app) | CSS / JavaScript |
-| 02 | Aula 02 | projeto-react | [🔗 Repositório](https://github.com/Isabelly-Caroline/meu-projeto-react) | [🌐 Ver online](meu-projeto-react-ruby-ten.vercel.app) | React |
-| 03 | Aula 03 | Projeto-react | [🔗 Repositório](https://github.com/Isabelly-Caroline/meu-projeto-react) | [🌐 Ver online](meu-projeto-react-ruby-ten.vercel.app) | React |
-| 04 | Aula 03 | vue-project | [🔗 Repositório](https://github.com/Isabelly-Caroline/meu-projeto-vue) | [🌐 Ver online](meu-projeto-vue-kappa.vercel.app) | Vue |
-| 05 | Aula 03 | meu-app-angular | [🔗 Repositório](https://github.com/Isabelly-Caroline/meu-app-angular) | [🌐 Ver online](meu-app-angular-ivory.vercel.app) | Angular |
-| 06 | Aula 03 | meu-projeto-nextjs | [🔗 Repositório](https://github.com/Isabelly-Caroline/meu-projeto-next) | [🌐 Ver online](meu-projeto-next-sooty.vercel.app) | Next.js |
+| 01 | Aula 01 | vannila.js | [🔗 Repositório](https://github.com/Isabelly-Caroline/Projeto-Vanilla-js) | [🌐 Ver online](https://projeto-vanilla-js-two.vercel.app) | CSS / JavaScript |
+| 02 | Aula 02 | projeto-react | [🔗 Repositório](https://github.com/Isabelly-Caroline/meu-projeto-react) | [🌐 Ver online](https://meu-projeto-react-ruby-ten.vercel.app) | React |
+| 03 | Aula 03 | Projeto-react | [🔗 Repositório](https://github.com/Isabelly-Caroline/meu-projeto-react) | [🌐 Ver online](https://meu-projeto-react-ruby-ten.vercel.app) | React |
+| 04 | Aula 03 | vue-project | [🔗 Repositório](https://github.com/Isabelly-Caroline/meu-projeto-vue) | [🌐 Ver online](https://meu-projeto-vue-kappa.vercel.app) | Vue |
+| 05 | Aula 03 | meu-app-angular | [🔗 Repositório](https://github.com/Isabelly-Caroline/meu-app-angular) | [🌐 Ver online](https://meu-app-angular-ivory.vercel.app) | Angular |
+| 06 | Aula 03 | meu-projeto-nextjs | [🔗 Repositório](https://github.com/Isabelly-Caroline/meu-projeto-next) | [🌐 Ver online](https://meu-projeto-next-sooty.vercel.app) | Next.js |
 | 07 | Aula 04 | Projetos_API | [🔗 Repositório](#) | Esse repositório contém diversos projetos | React / Node.js (Express) |
-| 08 | Aula 04 | front_express | [🔗 Repositório](https://github.com/Isabelly-Caroline/projeto-api-data) | [🌐 Ver online](projeto-api-data-blue.vercel.app) | Express / Node.js |
+| 08 | Aula 04 | front_express | [🔗 Repositório](https://github.com/Isabelly-Caroline/projeto-api-data) | [🌐 Ver online](https://projeto-api-data-blue.vercel.app) | Express / Node.js |
 
 ## 🛠️ Tecnologias
 
