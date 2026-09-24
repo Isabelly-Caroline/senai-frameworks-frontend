@@ -44,6 +44,7 @@ Repositórios dos projetos práticos desenvolvidos ao longo da matéria.
 | 06 | Aula 03 | meu-projeto-nextjs | [🔗 Repositório](https://github.com/Isabelly-Caroline/meu-projeto-next) | [🌐 Ver online](https://meu-projeto-next-sooty.vercel.app) | Next.js |
 | 07 | Aula 04 | Projetos_API | [🔗 Repositório](https://github.com/Isabelly-Caroline/projetos-api/tree/main) | Esse repositório contém diversos projetos | React / Node.js (Express) |
 | 08 | Aula 04 | front_express | [🔗 Repositório](https://github.com/Isabelly-Caroline/projeto-api-data) | [🌐 Ver online](https://projeto-api-data-blue.vercel.app) | Express / Node.js |
+| 09 | Aula 04 | front_express | [🔗 Repositório]((https://github.com/Isabelly-Caroline/projeto-css)) | Não foi necessário deploy | CSS / HTML |
 
 ## 🛠️ Tecnologias
 
