@@ -47,7 +47,7 @@ Repositórios dos projetos práticos desenvolvidos ao longo da matéria.
 | 09 | Aula 06 | Não realizamos projeto | - | - | - |
 | 10 | Aula 07 | Projeto-css | [🔗 Repositório](https://github.com/Isabelly-Caroline/projeto-css) | Não foi necessário deploy | CSS / HTML |
 | 11 | Aula 07 | front_express | [🔗 Repositório](https://github.com/Isabelly-Caroline/projeto-Tailwind) | [🌐 Ver online](https://projeto-tailwind-eight.vercel.app/) | Tailwind CSS / HTML |
-| 12 | Aula 08 | Projeto_react_2.0 | [🔗 Repositório](https://github.com/Isabelly-Caroline/projeto-Tailwind) | [🌐 Ver online](https://projeto-tailwind-eight.vercel.app/) | React / HTML |
+| 12 | Aula 08 | Projeto_react_2.0 | [🔗 Repositório](https://github.com/Isabelly-Caroline/projeto-Tailwind) | [🌐 Ver online](https://projeto-react-2-0.vercel.app/) | React / HTML |
 ## 🛠️ Tecnologias
 
 As tecnologias serão adicionadas conforme forem estudadas durante o semestre.
